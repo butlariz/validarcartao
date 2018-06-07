@@ -10,3 +10,5 @@
 10. A variável sum recebe ele mesmo mais arrayNumbers de indice i.
 11. Uma nova condicional compara se a variável sum, módulo 10 é igual a 0. Se for igual a 0, a div result mostra a mensagem dizendo que "O número do cartão é válido". Se não a div result mostra a mensagem "O número do cartão é válido".
 12. Se os dados inseridos pelo usuário não forem válidos, a div result mostra a mensagem "Digite apenas números".
+
+![Fluxograma da Cifra de César](fluxograma.png) 
